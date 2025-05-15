@@ -1,0 +1,12 @@
+[submodule "automa-workflows"]
+	path = automa-workflows
+	url = https://github.com/luascfl/automa-workflows
+[submodule "userscripts"]
+	path = userscripts
+	url = https://github.com/luascfl/userscripts
+[submodule "google-apps-script"]
+	path = google-apps-script
+	url = https://github.com/luascfl/google-apps-script
+[submodule "prompt-engineering"]
+	path = prompt-engineering
+	url = https://github.com/luascfl/prompt-engineering
